@@ -46,3 +46,5 @@ Hello, my name is Jiyong Ge and I Working in Shenzhen IoT company. I am a full-s
 
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=kizai&show_icons=true&theme=dracula&count_private=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kizai.kizai)
