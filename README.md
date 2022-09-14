@@ -30,6 +30,8 @@ Hello, my name is Jiyong Ge and I Working in Shenzhen IoT company. I am a full-s
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
+![PHP](https://img.shields.io/badge/-Php-black?logo=php&style=social)&nbsp;&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-black?logo=nginx&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-black?logo=arduino&style=social)&nbsp;&nbsp;
