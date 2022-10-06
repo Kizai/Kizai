@@ -46,6 +46,7 @@ Hello, my name is Jiyong Ge and I Working in Shenzhen IoT company. I am a full-s
 ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&style=social)&nbsp;&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?logo=ubuntu&style=social)&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-black?logo=rust&style=social)&nbsp;&nbsp;
 
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=kizai&show_icons=true&theme=dracula&count_private=true)
