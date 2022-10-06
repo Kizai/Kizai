@@ -64,4 +64,4 @@ Hello, my name is Jiyong Ge and I Working in Shenzhen IoT company. I am a full-s
 </details>
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kizai.kizai)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=kizai.kizai) -->
