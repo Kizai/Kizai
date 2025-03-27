@@ -72,11 +72,7 @@ I'm **Kizai (Jiyong Ge)**, an **AI Product Manager**, **AI Full-Stack Developer*
 
 <div align="center">
   <img width="700px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kizai&theme=buefy" />
-  <br/><br/>
-  <img width="700px" src="https://ghchart.rshah.org/kizai" />
 </div>
-
----
 
 <div align="center">
 
