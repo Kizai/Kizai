@@ -28,7 +28,7 @@ I'm **Kizai (Jiyong Ge)**, an **AI Product Manager**, **AI Full-Stack Developer*
 - 🧑‍💻 Experienced in building advanced AI-powered interactive systems, specializing in **AICursor + MCP** extension & plugin development.
 - 📫 Contact: **[kizaige@gmail.com](mailto:kizaige@gmail.com)**
 - 😄 Pronouns: **He/Him**
-- 🧣 My personal blog：[**Kizai's Blog**](http://nas.kizai.top:18380/)
+- 🧣 My personal blog：[**Kizai's Blog**](http://www.kizai.top:6688/)
 - ✉️ My resume：[**Kizai's Resume**](https://animating-resume-phi.vercel.app/)
 
 ---
