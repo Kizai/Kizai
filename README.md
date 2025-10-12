@@ -29,7 +29,7 @@ I'm **Kizai (Jiyong Ge)**, an **AI Product Manager**, **AI Full-Stack Developer*
 - 📫 Contact: **[kizaige@gmail.com](mailto:kizaige@gmail.com)**
 - 😄 Pronouns: **He/Him**
 - 🧣 My personal blog：[**Kizai's Blog**](https://blog.kizai.top)
-- ✉️ My resume：[**Kizai's Resume**](https://animating-resume-phi.vercel.app/)
+- ✉️ My resume：[**Kizai's Resume**](https://resume.kizai.top/)
 
 ---
 
