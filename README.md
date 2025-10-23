@@ -11,7 +11,7 @@
   <a href="https://twitter.com/kizai_ge"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://blog.csdn.net/qq_42001163"><img src="https://img.shields.io/badge/-CSDN-FC5531?style=for-the-badge&logo=CSDN&logoColor=white" alt="CSDN"></a>
   <a href="https://gitee.com/kizai"><img src="https://img.shields.io/badge/-Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white" alt="Gitee"></a>
-  <a href="http://nas.kizai.top:18380/"><img src="https://img.shields.io/badge/-My%20Blog-334455?style=for-the-badge&logo=Microdotblog&logoColor=white" alt="Blog"></a>
+  <a href="https://blog.kizai.top"><img src="https://img.shields.io/badge/-My%20Blog-334455?style=for-the-badge&logo=Microdotblog&logoColor=white" alt="Blog"></a>
 </p>
 
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Kizai/Kizai/master/assets/github-snake.svg" width=600 />
