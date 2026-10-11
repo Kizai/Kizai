@@ -63,21 +63,13 @@ I'm **Kizai (Jiyong Ge)**, an **AI Full-Stack Developer**, **AI Product Manager*
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kizai&theme=buefy&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="900px" alt="GitHub Trophies" />
-</div>
-
----
-
 ## ⚡ GitHub Stats & Top Languages
 
 <div align="center">
 <table>
 <tr>
-<td><img alt="Kizai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kizai&show_icons=true&theme=buefy&count_private=true" height="180px"/></td>
-<td><img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kizai&theme=buefy" height="180px"/></td>
+<td><img alt="Kizai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kizai&show_icons=true&theme=buefy&count_private=true" width="460px"/></td>
+<td><img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kizai&theme=buefy" width="460px"/></td>
 </tr>
 </table>
 
@@ -86,29 +78,21 @@ I'm **Kizai (Jiyong Ge)**, an **AI Full-Stack Developer**, **AI Product Manager*
 
 ---
 
-## 📈 Daily Contributions & Activity
+## 📈 GitHub Profile Overview & Daily Contributions
 
 <div align="center">
-  <!-- 概览与全年每日提交折线图 -->
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kizai&theme=buefy" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <!-- 语言占比 / Commit 分布 / 每日敲代码活跃时间段 (UTC+8) -->
   <img height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kizai&theme=buefy" alt="Repos per Language" />
   <img height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kizai&theme=buefy" alt="Most Commit Language" />
   <img height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kizai&theme=buefy&utcOffset=8" alt="Productive Time" />
 </div>
 
-<div align="center">
-  <!-- 每日提交数量折线趋势图 (Activity Graph) -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kizai&theme=buefy&hide_border=true&area=true" alt="Kizai's Activity Graph" />
-</div>
-
 <br/>
 
 <div align="center">
-  <!-- 全年每日贡献绿格子日历图 (配色匹配 Buefy 紫色 7957d5) -->
   <img width="100%" src="https://ghchart.rshah.org/7957d5/kizai" alt="Kizai's Github Chart" />
 </div>
 
@@ -141,6 +125,4 @@ I'm **Kizai (Jiyong Ge)**, an **AI Full-Stack Developer**, **AI Product Manager*
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 - [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-- [GitHub Readme Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
-- [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
 - [GitHub Contributions Graph](https://ghchart.rshah.org/)
