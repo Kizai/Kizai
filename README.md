@@ -15,10 +15,6 @@
   <a href="https://gitee.com/kizai"><img src="https://img.shields.io/badge/-Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white" alt="Gitee"></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kizai&label=Profile%20Views&color=7957d5&style=flat-square" alt="Profile Views" />
-</p>
-
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Kizai/Kizai/master/assets/github-snake.svg" width="600" />
 
 </div>
